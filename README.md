@@ -4,7 +4,7 @@ Requires Python 3.14+ due to using Path.move() function
 
 Example usage: python move-video-img.py mixed_folder
 
-Result:
+Result:<br />
 Images will be in mixed_folder_image (.png, .jpg, .bmp)<br />
 Videos will be in mixed_folder_video (.mp4, .mkv, .avi, .wmv, .asf, .gif)<br />
 Everything else will be in mixed_folder_unknown<br />
